@@ -16,4 +16,4 @@ The CodeBook.md and the comments in the script provide further details and expla
 Note that the reshape 2 library must be installed, as it is called by the script.
 
 ## CodeBook
-Please see CodeBook.md for further details about the script and data.
+Please see CodeBook.md and the script comments for further details about the script and data.
